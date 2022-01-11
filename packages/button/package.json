@@ -1,0 +1,16 @@
+{
+  "name": "button",
+  "version": "0.0.1",
+  "author": "rushi444",
+  "description": "Button Component",
+  "main": "dist/Button.es.js",
+  "module": "dist/Button.es.js",
+  "scripts": {
+    "build": "vite build",
+    "build:watch": "vite build --watch"
+  },
+  "types": "./src/Button.d.ts",
+  "devDependencies": {
+    "vite-dts": "^1.0.4"
+  }
+}
